@@ -156,7 +156,7 @@ const Footer = () => {
         </div>
         <div className="mt-12 border-t border-gray-200 dark:border-dark-800 pt-8">
           <p className="text-base text-dark-400 dark:text-dark-500 xl:text-center">
-            &copy; 2023 LaunchBoost, Inc. All rights reserved.
+            &my little project in 2025 
           </p>
         </div>
       </div>
